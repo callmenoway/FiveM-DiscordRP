@@ -24,11 +24,11 @@
 </p>
 
 # FiveM-DiscordRP
-FiveM-DiscordRP is a Discord Rich Presence for FiveM server, full customizable and so much more...
+FiveM-DiscordRP is a Discord Rich Presence for FiveM server, fully customizable source code
 
 ## Installation
 
-Edit all of requested things in ```fxmanifest.lua```
+Edit all of requested things in ```config.lua```
 
 ## Usage
 
