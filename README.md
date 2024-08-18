@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1085087385571840020/1117604003656765540/image.png">
+  <img src="https://i.ibb.co/3sHrnRQ/fivemrp.jpg">
 </p>
 
 <p align="center">
